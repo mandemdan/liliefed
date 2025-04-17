@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!--
+Darshan Liliefeldt, 400367010 certify that this material is my original work.
+No other person's work has been used without due acknowledgement.
+I have also not made my work available to anyone else.
+-->
+<head>
+    <title> [Dashan Liliefeldt] [lab 1] </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1, h2 {
+            font-family: "Times New Roman", serif;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+        }
+        .header img {
+            margin-right: 20px; 
+            width: 100px;
+            height: 100px;
+        }
+        .job-title {
+            font-weight: bold;
+            font-style: italic;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class=" header">
+        <img src = "4it3lab1img.jpg" alt ="Darshan Liliefeldt profile pic">
+    </div>
+    <h2>Education</h2>
+    <Ul>
+        <li>Highschool P.A.C.E The academy for giften children</li>
+        <li>University: Mcmaster University</li>
+        <li>specializing: Automation Smart systems</li>
+    </Ul>
+
+    <h2>Work</h2>
+    <p><span class="job-title">Wedding Caterer Part time summer 2024 to presentat <a href="https://www.getavanti.ca/" target="_blank">Avanti Events LTD</a> </span></p>
+    <ul>
+        <li>Help set up and pack up supplies at various weddin venues</li>
+        <li>Provide a seamless and professional experience to all guests</li>
+        <li>assists in preparing and serving food, and clearing tables</li>
+    </ul>
+    <p><span class="job-title">Part time Summer Camp councilor 2022-2024 </span></p>
+    <ul>
+        <li>Responsible for 3-14 kids ages 6-14</li>
+        <li>Provide a quality camp experience while providing kids with activies and entertainment</li>
+        <li>Be able to execute First aid training aswell as emergency protocols</li>
+    </ul>
+    p><span class="job-title">Software engineer Intern</span> at <a href="https://www.toyota.ca/en/" target="_blank">Toyota Canada</a> (Summer 2025)</p>
+    <ul>
+        <li>Future co-op oppurtunity not all responsibilities known to me</li>
+        <li>Collaborated with team members to create working api's for toyota clients</li>
+        <li>Participated in code reviews and debugging sessions</li>
+    </ul>
+    <h2>Hobbies</h2>
+    <ol>
+       <li><strong>Bouldering/Rockclimbing</strong> I enjoy the sport of climbing and love improving at it </li> 
+       <li><strong>Cinema</strong> I love films and Shows and enjoy complex and compelling story lines</li>
+       <li><strong>Volunteering</strong> I personally enjoy Volunteering and working in my community as a way to give back</li>
+       <li><strong>McMaster Soup Kitchen</strong>I am regularly participate in this club and find it an easy way to contribute to the mcmaster community</li>
+    </ol>
+    <footer>
+        &copy; 2025 Darshan Liliefeldt
+    </footer>
+
+    
+</body>
+</html>
