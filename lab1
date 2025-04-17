@@ -76,7 +76,9 @@ I have also not made my work available to anyone else.
     <footer>
         &copy; 2025 Darshan Liliefeldt
     </footer>
-
-    
+ 
 </body>
 </html>
+git add .
+git commit -m "Initial commit for personal webpage"
+git push origin main
